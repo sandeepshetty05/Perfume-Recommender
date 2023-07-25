@@ -1,6 +1,8 @@
 # Perfume-Recommender
 This project demonstrates the effectiveness of machine learning  techniques in building personalized perfume recommender systems.
+
 data set download link https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-GPXX068IEN/data/perfume_data.tgz
+
 A perfume recommender system is a type of recommendation system that 
 suggests perfumes to users based on their preferences and past interactions 
 with perfumes. These systems can help users discover new scents that they 
